@@ -1,0 +1,22 @@
+* {
+	background-color: skyblue;
+	color: navy;
+	font-family: Comic-sans;
+}
+
+#pageTitle {
+	text-align: center;
+	height: 50px;
+}
+
+li.meat {
+	color: brown;
+}
+
+li.veggie {
+	color: green;
+}
+
+li.cheese {
+	color: darkorange;
+}
